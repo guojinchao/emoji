@@ -27,8 +27,8 @@
 |`:chart_with_upwards_trend:`| (上升趋势图)|	:chart_with_upwards_trend:	|添加分析或跟踪代码|
 |`:hammer:`| (锤子)|	:hammer:|	重大重构|
 |`:heavy_minus_sign:`|(减号)|	:heavy_minus_sign:|	减少一个依赖|
-|`:whale:`| (鲸鱼)	|:whale:	|Docker 相关工作|
 |`:heavy_plus_sign:` |(加号)|	:heavy_plus_sign:	|增加一个依赖|
 |`:wrench:` |(扳手)|	:wrench:	|修改配置文件|
+|`:whale:`| (鲸鱼)	|:whale:	|Docker 相关工作|
 |`:globe_with_meridians:`| (地球)|	:globe_with_meridians:|	国际化与本地化|
 |`:pencil2:`| (铅笔)	|:pencil2:|	修复 |
