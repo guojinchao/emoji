@@ -2,7 +2,7 @@
 
 | emoji图标| emoji样式 | emoji 代码 | commit 说明 |
 |:----|:----|:----|:----|
-|:art: |(调色板)| :art:|	改进代码结构/代码格式|
+|:art: |(调色板)| `:art:` |	改进代码结构/代码格式|
 |:zap:“:racehorse: |(闪电) (赛马)|:zap:“:racehorse:|	提升性能|
 |:fire:| (火焰)	|:fire:|	移除代码或文件|
 |:bug: |(bug)	|:bug:|	修复 bug|
