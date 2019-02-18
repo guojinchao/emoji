@@ -1,6 +1,6 @@
 # emoji
 
-| emoji图标| emoji样式 | emoji 代码 | commit 说明 |
+| emoji代码| emoji样式 | emoji 图标 | commit 说明 |
 |:----|:----|:----|:----|
 |`:art:` |(调色板)| :art: |	改进代码结构/代码格式|
 |`:zap: :racehorse:` |(闪电) (赛马)|:zap:“:racehorse:|	提升性能|
