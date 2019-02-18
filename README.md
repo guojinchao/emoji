@@ -16,7 +16,7 @@
 |:lock:| (锁)|	:lock:	|修复安全问题|
 |:apple: |(苹果)	|:apple:	|修复 macOS 下的问题|
 |:penguin: |(企鹅)	|:penguin:|修复 Linux 下的问题|
-|:checkered_flag: |(旗帜)	|:checked_flag:|修复 Windows 下的问题|
+|:checkered_flag: |(旗帜)	|:checkered_flag:|修复 Windows 下的问题|
 |:bookmark:| (书签)|	:bookmark:	|发行/版本标签|
 |:rotating_light: |(警车灯)|	:rotating_light:	|移除 linter 警告|
 |:construction: |(施工)	|:construction:|	工作进行中|
